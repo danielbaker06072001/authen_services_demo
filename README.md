@@ -27,5 +27,3 @@ Structure:
 - Step 2: From handler, go through Services + Repositories file , also check the DTO + models file for the data structure
     - Step 3: In the services and repositories file , they will call  other method from services 
     - Step 4: All of the method will return response based on a Model structure
-
-# Last word, Goodluck on this project!!!
